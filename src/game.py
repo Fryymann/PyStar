@@ -44,9 +44,6 @@ for i in range(MAP_SIZE):
     MAP.append(row)
 
 
-
-
-
 while (GAME_ACTIVE):
     if (GAME_MESSAGE):
         print("\n"+GAME_MESSAGE+"\n")
